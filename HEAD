@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 087d5d8695531287278dd4536e8cebc8c9ed6766 darshpl <darsh2011143@gmail.com> 1727810855 +0530	commit (initial): Add README.md file
+087d5d8695531287278dd4536e8cebc8c9ed6766 b2a54f03616bd085dbda322386334e83e30c23f0 darshpl <darsh2011143@gmail.com> 1727811330 +0530	pull origin master --allow-unrelated-histories: Merge made by the 'ort' strategy.
+b2a54f03616bd085dbda322386334e83e30c23f0 ed7cfad2bc240de8d040c77528a6ea949ad5f40f darshpl <darsh2011143@gmail.com> 1727811721 +0530	commit: Add necessary files for AI Fitness Trainer project
+ed7cfad2bc240de8d040c77528a6ea949ad5f40f 53cede8f294f3fd09be5e22d9a62b9be2c33c53a darshpl <darsh2011143@gmail.com> 1727812233 +0530	commit: Remove myenv directory from tracking
+53cede8f294f3fd09be5e22d9a62b9be2c33c53a 5853374ad1536e1b1a547b64eeb8affe452851d7 darshpl <darsh2011143@gmail.com> 1727812633 +0530	commit: Remove large files to resolve push error
